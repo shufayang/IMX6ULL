@@ -1,0 +1,9 @@
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:shufayang/kernel.git
+[submodule "uboot"]
+	path = uboot
+	url = git@github.com:shufayang/uboot.git
+[submodule "rootfs"]
+	path = rootfs
+	url = git@github.com:shufayang/rootfs.git
